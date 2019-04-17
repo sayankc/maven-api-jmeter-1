@@ -1,3 +1,3 @@
 # maven-api-jmeter-1
-To Run
-mvn clean verify
+To test , simply execute the following command:
+  $mvn clean verify
